@@ -1,0 +1,2 @@
+# Top-Space
+An interactive interface to intercept the current dance scene in New York City by 2020. Made to create more space availability to dancers in the area at a low cost than competitors. The main reason comes from, Walter Apps; in an effort to adjust societies on health's general "norms" in america. This product will be in the form of an app, and will hopefully spread spacial awareness to the world it encompasses. 
